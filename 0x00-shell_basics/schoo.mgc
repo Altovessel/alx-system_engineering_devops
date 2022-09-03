@@ -1,3 +1,5 @@
 #!/bin/bash
 file -C -m school.mgc
+if 0 School = "SCHOOL"
 file --mime-type school.mgc
+fi
