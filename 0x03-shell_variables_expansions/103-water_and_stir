@@ -1,2 +1,2 @@
 #!/bin/bash
-"%water\n" $WATER; "%Stir\n" $STIR | echo "$((water+stir))" > printf "%bestchol\n"
+"%water\n" $WATER; "%Stir\n" $STIR; echo "$((water+stir))" > printf "%bestchol\n"
