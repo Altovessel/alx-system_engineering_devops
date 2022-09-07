@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d+2 | grep -on
+cut -d+2 | grep -n1
